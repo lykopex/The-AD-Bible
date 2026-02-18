@@ -1,0 +1,1 @@
+We currently follow the MIT license.

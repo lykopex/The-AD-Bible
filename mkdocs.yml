@@ -1,4 +1,10 @@
 site_name: The AD Bible
 nav:
   - Home: index.md
+  - About:
+      - Index: 'about/index.md'
+      - Contributors: 'about/contributors.md'
+      - License: 'about/license.md'
+      - Contributing: 'about/contributing.md'
+      - Donations: 'about/donations.md'
 theme: terminal
