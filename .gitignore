@@ -1,0 +1,25 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# uv virtual environment
+.venv/
+
+uv.lock
+
+# Environment variables
+.env
+
+# IDE and Editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Caches
+.ruff_cache/
+.pytest_cache/
