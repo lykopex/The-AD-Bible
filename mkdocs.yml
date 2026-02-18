@@ -1,4 +1,4 @@
 site_name: The AD Bible
 nav:
   - Home: index.md
-theme: readthedocs
+theme: terminal
