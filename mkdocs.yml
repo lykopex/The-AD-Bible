@@ -8,5 +8,4 @@ nav:
       - Contributing: 'about/contributing.md'
       - Donations: 'about/donations.md'
 theme: 
-  name: terminal
-  palette: gruvbox_dark
+  name: material
